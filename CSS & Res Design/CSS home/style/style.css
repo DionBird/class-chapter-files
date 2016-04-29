@@ -1,0 +1,31 @@
+body{ 
+	background: url(/img/coffee.jpg) no-repeat top center;
+	background-size: cover;
+	color: white;
+	padding: 0;
+	margin: 0;
+}
+
+#topheader {
+	background: #feaf12;
+	height: 50px;
+	padding: 10px;
+}
+
+#topheader h1{
+	font-family: arial;
+}
+
+.box {
+	width: 20%;
+	max-width: 300px;
+	padding: 10px;
+	margin: 20px;
+	background: white;
+	color: black;
+}
+
+.innerbox {
+	background: #feaf12;
+	width: 75%;
+}

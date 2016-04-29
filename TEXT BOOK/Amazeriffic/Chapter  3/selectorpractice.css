@@ -1,0 +1,45 @@
+/*Selects H1 Red */ /*h1 {
+	color: red;
+}*/
+
+/*Selects H2 Red*/ /*h2 {
+	color: red;
+}*/
+
+/*Selects all relevant class*/ /*.relevant {
+	color: red;
+}*/
+
+/*Selects First paragraph of Relevant*/ /*.a:first-child {
+	color: red;
+}*/
+
+/*Selects Third Paragraph Of Relevant */ /*.relevant p:nth-child(3) {
+	color: red;
+}*/
+
+/*Selects Seventh Paragraph of Relevant*/ /*p:nth-child(7) {
+	color: red;
+}*/
+
+/*selects ALL PARAGRAPHS*/ /*p {
+	color: red;
+}*/
+
+/*Selects Random Paragraph in H2*/  /* p:first-child {
+	color: red;
+}*/
+
+/*Selects all paragraphs with a class*/ /*a {
+	color: red;
+}*/
+
+/*Selects only relevant paragraphs with a class*/ /*.relevant .a {
+	color: red;
+}*/
+
+/*Selects second and fourth paragraphs*/ .a:nth-child(2), p:nth-child(4) {
+	color: red;
+}
+
+/*neeto*/

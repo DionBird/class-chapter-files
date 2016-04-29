@@ -1,0 +1,42 @@
+
+
+body {
+	max-width: 1200px;
+	margin: auto;
+	font-family: arial, sans-serif;
+	padding: 30px;
+}
+
+h1 {
+	background: url('img/maker-logo.png');
+	background-repeat: no-repeat;
+	margin: 28px 0 0 0;
+	width: 255px;
+	height: 90px;
+}
+
+hr {
+	height: 3px;
+	background: #333;
+}
+
+.events {
+	float: left;
+	margin: 15px;
+}
+
+.events img{
+	margin-bottom: 30px;
+}
+
+.events p{
+	text-align: center;
+}
+
+p {
+	font-family: arial, sans-serif;
+	font-size: 14px;
+	margin: 0px;
+}
+
+/*look again*/
