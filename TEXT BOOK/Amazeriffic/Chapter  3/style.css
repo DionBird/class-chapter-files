@@ -1,0 +1,31 @@
+body {
+	background: light blue; /* Sets the body width to 800 pixels */
+	width: 800px;	/* Sets the background to bluish color */
+	margin: auto;	/* Sets the background color to red*/
+
+}
+
+h1 {
+	color: maroon;
+	text-align: center;
+
+
+}
+
+p {
+	color: gray;
+	border: 1px solid gray;
+	padding: 10px;
+}
+
+p.first {
+	color: red;
+	margin: 10px;
+	padding: 20px
+}
+
+.first {
+	color: red;
+	margin: 10px;
+	padding: 20px;
+}

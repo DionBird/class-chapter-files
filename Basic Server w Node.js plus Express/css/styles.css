@@ -1,0 +1,30 @@
+body {
+	font-family: arial;
+}
+
+
+div {
+	background-color: red;
+}
+
+.highlight{
+	background-color: blue;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+	display: inline-block;
+	padding: 10px;
+	background-color: black;
+	color: white;
+	transition: 0.5s background-color;
+}
+
+a:hover {
+	background-color: #555;
+}
+
+
+#mood {
+	font-size: 200px;
+}

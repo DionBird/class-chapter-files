@@ -1,0 +1,21 @@
+
+/* Here we are styling the body */
+body {
+	background: light cyan; /* Set the background to light blue */
+	width: 800px; /* Set the body width to 800 pixels */
+	margin: auto; /* Set the body margin to automatic */
+	color: #ff0000; /* set the foreground color to red */
+}
+
+h1 {
+	color: maroon;
+	text-align: center;
+}
+
+p {
+	color: gray;
+	border: 1px solid gray;
+	padding: 10px;
+}
+
+/* keep on truck'n it's only 5am */
